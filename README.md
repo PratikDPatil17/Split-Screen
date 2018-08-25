@@ -1,0 +1,1 @@
+Its a type tp split screen using simple java script
